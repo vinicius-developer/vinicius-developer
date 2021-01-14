@@ -1,7 +1,7 @@
 ![Name](https://github.com/sharannyobasu/sharannyobasu/blob/master/Hello(1).gif)
 ## Vinicius de Paula
 
-Tenho 19 anos e sou apaixonado por qualquer coisa voltado a técnologia.
+Tenho 19 anos e sou apaixonado por qualquer coisa voltado a tecnologia.
 (Obs: por mais que não entenda várias coisas rsrsrs)
 
 Estou sempre em busca de expandir meu conhecimento seja com trabalho ou 
