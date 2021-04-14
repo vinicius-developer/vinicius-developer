@@ -28,4 +28,4 @@ Email: viniciusilvav1@hotmail.com
 - HTML5
 - Bootstrap
 
-🌱 Eu atualmente estou focando em React, para concluir o front-end do meu projeto OnUni 🙂
+🌱 Eu atualmente estou focando em PHP(laravel), para concluir o front-end do meu projeto OnUni 🙂
