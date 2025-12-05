@@ -10,6 +10,4 @@ ajudando amigos com problemas de código.
 
 LinkedIn: [Vinicius de Paula](https://www.linkedin.com/in/vincius-de-paula/)
 
-Instagram: @vinicius_baymax
-
 Email: viniciusilvav17@gmail.com
